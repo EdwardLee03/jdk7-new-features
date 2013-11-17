@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+
+<suite name="jdk7" verbose="1">
+	<test name="New Features">
+		<packages>
+			<package name="com.features" />
+		</packages>
+	</test>
+</suite>
