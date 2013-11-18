@@ -4,7 +4,7 @@
 <suite name="jdk7" verbose="1">
 	<test name="New Features">
 		<packages>
-			<package name="com.features" />
+			<package name="com.features.coin" />
 		</packages>
 	</test>
 </suite>
